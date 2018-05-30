@@ -1,0 +1,45 @@
+:Predicted_Sunspot_Numbers_and_Radio_Flux: Predict.txt
+:Created: 2018 May 07 0100 UTC
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center (SWPC).
+# Please send comments and suggestions to swpc.webmaster@noaa.gov
+#
+# Sunspot Number: S.I.D.C. Brussels International Sunspot Number.
+# 10.7cm Radio Flux value: Penticton, B.C. Canada.
+# Predicted values are based on the consensus of the Solar Cycle 24 Prediction Panel.
+#
+# See the README3 file for further information.
+#
+# Missing or not applicable data:  -1
+#
+#         Predicted Sunspot Number And Radio Flux Values
+#                     With Expected Ranges
+#
+#         -----Sunspot Number------  ----10.7 cm Radio Flux----
+# YR MO   PREDICTED    HIGH    LOW   PREDICTED    HIGH    LOW
+#--------------------------------------------------------------
+2017 11         9.5    10.5     8.5       74.6    75.6    73.6
+2017 12         9.8    11.8     7.8       74.4    75.4    73.4
+2018 01         9.9    12.9     6.9       74.0    76.0    72.0
+2018 02         9.7    14.7     4.7       73.4    76.4    70.4
+2018 03         8.8    13.8     3.8       72.1    76.1    68.1
+2018 04         8.3    14.3     2.3       70.8    74.8    66.8
+2018 05         8.7    15.7     1.7       70.3    75.3    65.3
+2018 06         9.2    16.2     2.2       70.0    76.0    64.0
+2018 07         9.6    17.6     1.6       69.7    76.7    62.7
+2018 08         9.9    18.9     0.9       69.3    77.3    61.3
+2018 09        10.2    19.2     1.2       69.0    77.0    61.0
+2018 10        10.5    20.5     0.5       68.7    77.7    60.0
+2018 11        10.3    20.3     0.3       68.2    77.2    60.0
+2018 12         9.5    19.5     0.0       67.4    76.4    60.0
+2019 01         8.9    18.9     0.0       66.9    75.9    60.0
+2019 02         8.3    18.3     0.0       66.3    75.3    60.0
+2019 03         7.8    17.8     0.0       65.9    74.9    60.0
+2019 04         7.3    17.3     0.0       65.4    74.4    60.0
+2019 05         6.8    16.8     0.0       65.0    74.0    60.0
+2019 06         6.4    16.4     0.0       64.5    73.5    60.0
+2019 07         5.9    15.9     0.0       64.1    73.1    60.0
+2019 08         5.5    15.5     0.0       63.8    72.8    60.0
+2019 09         5.1    15.1     0.0       63.4    72.4    60.0
+2019 10         4.8    14.8     0.0       63.1    72.1    60.0
+2019 11         4.4    14.4     0.0       62.8    71.8    60.0
+2019 12         4.1    14.1     0.0       62.5    71.5    60.0
